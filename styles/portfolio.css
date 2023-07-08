@@ -90,6 +90,16 @@ nav a {
   margin-top: 20px;
   margin-bottom: 33px;
 }
+/* main section design */
+
+main{
+  max-width: 1140px;
+  margin: 0 auto;
+}
+.about-info-container{
+  display: flex;
+  justify-content: space-around;
+}
 
 /* about section design */
 
@@ -98,4 +108,7 @@ nav a {
   border-radius: 10px;
   background: #fff8f3;
   margin: 130px 0;
+}
+.about-info{
+  text-align: center;
 }
