@@ -67,16 +67,9 @@ nav a {
   border: 1px solid #fd6e0a;
   background-color: #fff8f3;
   color: #fd6e0a;
-}
-.btn-png {
-  width: 20px;
-  height: 20px;
-  padding: 3px 7px 0px 0px;
-}
-.btn-png1 {
-  width: 22px;
-  height: 22px;
-  padding: 3px 7px 0px 0px;
+  font-size: 20px;
+  font-weight: 700;
+  padding: 15px 35px;
 }
 .header {
   background-color: #fff8f3;
