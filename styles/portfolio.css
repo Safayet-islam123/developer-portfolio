@@ -92,11 +92,14 @@ nav a {
 }
 /* main section design */
 
-main{
+main {
   max-width: 1140px;
   margin: 0 auto;
 }
-.about-info-container{
+main section {
+  margin-top: 130px;
+}
+.about-info-container {
   display: flex;
   justify-content: space-around;
 }
@@ -109,13 +112,46 @@ main{
   background: #fff8f3;
   margin: 130px 0;
 }
-.about-info{
+.about-info {
   text-align: center;
 }
-#what-i-do{
+#what-i-do {
   padding: 30px 150px;
   margin-top: 0px;
+  margin-bottom: 50px;
 }
-#what-i-do-title{
+#what-i-do-title {
   margin-bottom: 0px;
+}
+.what {
+  margin: 130px 0;
+}
+/* skills related style */
+
+.skill-container {
+  display: flex;
+  margin-top: 0px;
+  gap: 24px;
+}
+.skill {
+  padding: 30px;
+  border-radius: 5px;
+  background: #fff;
+  box-shadow: 0px 6px 50px 0px rgba(4, 4, 4, 0.115);
+}
+.skill-description {
+  color: #757575;
+  line-height: 28px;
+  font-size: 16px;
+}
+.skill-title {
+  font-size: 20px;
+}
+
+/* resume section style */
+
+.resume-column-title {
+  color: #474747;
+  font-size: 30px;
+  font-weight: 700;
 }
