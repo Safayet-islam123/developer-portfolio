@@ -113,5 +113,9 @@ main{
   text-align: center;
 }
 #what-i-do{
-  padding: 150px;
+  padding: 30px 150px;
+  margin-top: 0px;
+}
+#what-i-do-title{
+  margin-bottom: 0px;
 }
